@@ -7,3 +7,4 @@ markdown file denemeler
 ```
 print("test")
 ````
+[clarusway](https://www.clarusway.com)
