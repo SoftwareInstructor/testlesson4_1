@@ -1,5 +1,5 @@
 # testlesson4_1
-markdown file denemeleri
-'''
+markdown file denemeler
+```
 print("test")
-'''
+````
