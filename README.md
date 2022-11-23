@@ -8,3 +8,8 @@ markdown file denemeler
 print("test")
 ````
 [clarusway](https://www.clarusway.com)
+| languages        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| python     | right-aligned | $1600 |
+| js         | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
